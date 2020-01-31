@@ -26,9 +26,13 @@ Documentation
 
 * The `talawa user documentation <https://palisadoesfoundation.github.io/talawa.github.io/>`_ can be found here.
 * The `talawa technical documentation <https://talawa.readthedocs.io/>`_ can be found here.
-* Visit the `talawa GitHub site <https://github.com/PalisadoesFoundation/talawa>`_ to see the code.
 * The `talawa API technical documentation <https://talawa-api.readthedocs.io/>`_ can be found here.
+
+GitHub Source Code
+------------------
+
 * Visit the `talawa API GitHub site <https://github.com/PalisadoesFoundation/talawa-api>`_ to see the code.
+* Visit the `talawa GitHub site <https://github.com/PalisadoesFoundation/talawa>`_ to see the code.
 
 About talawa
 ============
