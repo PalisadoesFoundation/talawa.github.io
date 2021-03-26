@@ -16,7 +16,7 @@ Talawa has two software components:
 - The Talawa Mobile App
 - The Talawa API which stores user data for the mobile app.
 
-Talawa has been managed by the Palisadoes Foundation since the project's creation in 2019. 
+Talawa has been managed by the Palisadoes Foundation since the project's creation in 2019.
 
 Documentation
 =============
@@ -29,27 +29,22 @@ Talawa
 
 The mobile app used by members of your community to organize events and activities.
 
-- [View **Talawa Technical Documentation**](https://talawa.readthedocs.io/)
-- [Download **ZIP File**](https://github.com/PalisadoesFoundation/talawa/zipball/master)
-- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/talawa/tarball/master)
+- [View **Talawa Technical Documentation**](https://palisadoesfoundation.github.io/talawa-docs/)
 - [View On **GitHub**](https://github.com/PalisadoesFoundation/talawa)
-
 
 Talawa-API
 ----------
 
-The software that runs behind the scenes to provide information to the mobile app. 
+The software that runs behind the scenes to provide information to the mobile app.
 
-- [View **Talawa API Documentation**](https://talawa-api.readthedocs.io/)
-- [Download **ZIP File**](https://github.com/PalisadoesFoundation/talawa-api/zipball/master)
-- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/talawa-api/tarball/master)
+- [View **Talawa API Documentation**](https://palisadoesfoundation.github.io/talawa-docs/)
+- [View **Talawa API Documentation ** (Legacy to be deprecated)](https://talawa-api.readthedocs.io/)
 - [View On **GitHub**](https://github.com/PalisadoesFoundation/talawa-api)
-
 
 About The Palisadoes Foundation
 ===============================
 
-`talawa` code was created by the 
+`talawa` code was created by the
 [Palisadoes Foundation](http://www.palisadoes.org) as part of its annual
 Calico Challenge program. Calico provides paid summer internships for
 Jamaican university students to work on selected open source projects.
